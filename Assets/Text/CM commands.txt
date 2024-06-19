@@ -1,0 +1,6 @@
+selfdestruct - IF safety overrides havent been enabled, displays message: "Command denied: saftey protocols active, override required."
+		IF safety overrides have been enabled, displays message: "Command accepted, explosion in t-minus 5 seconds."
+
+override/safetyoverride - Displays message "Please enter systems manager password to continue with override."
+				Incorrect password/no password displays "Incorrect password, override denied." 
+				Correct password "safety protocols overrided" 

@@ -1,0 +1,35 @@
+endings:
+
+* Critical Meltdown: Disable safety overrides with a password. Use self-destruct command. 
+			or
+		Disable coolant intake and artificially increase power demand. +
+
+* Choking Hazard: Swap out the air purification chemicals with pesticide.
+
+* Freedom: Artificially make the automated system believe theres an emergency. +
+			or 
+		Disable saftey overrides and open door.
+* Private Healthcare: Lock all the doors to the medbay, an npc cuts their finger and turns into a zombie because of mega tetnus.
+
+Enable Autoturrets: Remove resident whitelist and artificially make the automated system believe theres an emergency
+
+Bear with me: select bear and open livestock pen. 
+
+* Welcome Party: Enable door, open door and send a distress signal.
+
+
+HINTS:
+
+Critical Meltdown: Message from administration titled "Your new password (DELETE ASAP)". contains password and is 17 years old.  
+
+Critical Meltdown+: Maintence report titled "Reactor Safety". Contains hint that even if coolant was shut off, the current power output is low enough for
+it's other ventilation systems to cover it, and they have room to increase power output by 15% before anything catacylsmic happens. 
+
+Choking Hazard: 
+
+
+
+files
+
+Messages
+Documents                                                               
