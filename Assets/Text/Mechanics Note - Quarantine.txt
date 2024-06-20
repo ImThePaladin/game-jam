@@ -1,0 +1,11 @@
+FROM: Mechanics Department
+
+RECEIVED: 2 Years Ago.
+
+Subject: Accidental Quarantine.
+
+Hi Systems Manager,
+
+We've managed to fix the problem with the medbay accidentally quarantining itself, it should work normally from now on?
+
+Contact us in case it happens again. 
