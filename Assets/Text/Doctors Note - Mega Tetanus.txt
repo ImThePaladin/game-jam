@@ -1,0 +1,21 @@
+FROM: Medical Department
+
+RECEIVED: 5 Years Ago.
+
+SUBJECT: Mega Tetanus
+
+Hey Systems Manager, 
+
+Just wanted to give you a little update on the whole "zombie outbreak in the bunker" thing. 
+
+As I'm sure you've seen from your office, a couple of the residents recently turned into flesh eating, violent psychopaths.
+
+Upon observation of the "condition", we've managed to discover two key things.
+
+Number one: It is curable, with a mix of antibiotics, and uranium-235. 
+
+Number two: The disease itself is a form of tetanus, or mega-tetanus, which seems to come from nails and other metal tools in the shelter that have been unknowingly contaminated.
+
+
+As long as any potential cases are treated ASAP, we should be safe from any other outbreaks.
+
