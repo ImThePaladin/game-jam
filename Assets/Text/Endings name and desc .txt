@@ -13,3 +13,7 @@ Ending text: I'm sure they're just curious.
 Man of Crate:
 Desc: Judgement, retribution, and... Crates.
 Ending Text: How'd he get there. 
+
+Bear With Me: 
+Desc: Wow, he seems unBEARable.
+Ending: I hate to be the BEARer of bad news... but they're definitely dead.
