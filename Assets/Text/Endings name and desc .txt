@@ -1,0 +1,15 @@
+Critical Meltdown: 
+Desc: I mean, you had to give the console command a try. 
+Ending text: I'm sure they're fine. 
+
+Private Healthcare: 
+Desc: It's a metaphor for capitalism or something. 
+Ending text: How? Why? MEGA-TETANUS
+
+Welcome Party:
+Desc: The neighbours seem nice. 
+Ending text: I'm sure they're just curious.  
+
+Man of Crate:
+Desc: Judgement, retribution, and... Crates.
+Ending Text: How'd he get there. 
